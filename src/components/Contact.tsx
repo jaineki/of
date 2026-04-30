@@ -57,7 +57,7 @@ const Contact: React.FC = () => {
           {/* Contact Info */}
           <div>
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-8">
-              I'm always interested in hearing about new opportunities, collaborations,
+              I&apos;m always interested in hearing about new opportunities, collaborations,
               or just having a chat about technology. Feel free to reach out!
             </p>
 
@@ -136,7 +136,7 @@ const Contact: React.FC = () => {
 
             {submitStatus === 'success' && (
               <p className="text-green-600 dark:text-green-400 text-center">
-                Message sent successfully! I'll get back to you soon.
+                Message sent successfully! I&apos;ll get back to you soon.
               </p>
             )}
             {submitStatus === 'error' && (
