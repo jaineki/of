@@ -1,4 +1,3 @@
-// src/components/Skills.tsx
 import React from 'react';
 import { Skill } from '../types';
 
