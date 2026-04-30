@@ -40,9 +40,9 @@ const Contact: React.FC = () => {
   };
 
   const contactInfo = [
-    { icon: Mail, label: 'Email', value: 'selovkszaskzx@gmail.com', href: 'mailto:selovkszaskzx@gmail.com'' },
+    { icon: Mail, label: 'Email', value: 'selovkszaskzx@gmail.com', href: 'mailto:selovkszaskzx@gmail.com' },
     { icon: Phone, label: 'Phone', value: '+639243901969', href: 'tel:+639243901969' },
-    { icon: MapPin, label: 'Location', value: 'Cebu, PH', href: '#' },
+    { icon: MapPin, label: 'Location', value: 'Cebu, Philippines', href: '#' },
   ];
 
   return (
