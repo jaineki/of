@@ -1,4 +1,3 @@
-// src/App.tsx
 import React, { useState, useEffect } from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
