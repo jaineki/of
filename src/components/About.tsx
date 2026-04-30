@@ -1,4 +1,3 @@
-// src/components/About.tsx
 import React from 'react';
 import { Code, Palette, Rocket, Users } from 'lucide-react';
 
