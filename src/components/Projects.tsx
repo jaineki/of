@@ -1,4 +1,3 @@
-// src/components/Projects.tsx
 import React, { useState } from 'react';
 import { ExternalLink, Github } from 'lucide-react';
 import { Project } from '../types';
