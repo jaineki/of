@@ -1,4 +1,3 @@
-import React from 'react';
 import { Code, Palette, Rocket, Users } from 'lucide-react';
 
 const About: React.FC = () => {
@@ -35,16 +34,16 @@ const About: React.FC = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
-              I'm a passionate Front End Developer with over 1 year of experience building web applications.
-              I love solving complex problems and creating elegant solutions that make a difference also making tools about smsbomb, spamshare and also cracking.
+              I&apos;m a passionate Front End Developer with over 1 year of experience building web applications.
+              I love solving complex problems and creating elegant solutions that make a difference.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
               My journey in web development started with a curiosity about how things work on the internet,
               and it has evolved into a career where I can continuously learn and grow.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300">
-              When I'm not coding, you can find me contributing to open-source projects, writing technical articles,
-              or exploring new technologies that push the boundaries of what's possible on the web.
+              When I&apos;m not coding, you can find me contributing to open-source projects, writing technical articles,
+              or exploring new technologies that push the boundaries of what&apos;s possible on the web.
             </p>
           </div>
 
