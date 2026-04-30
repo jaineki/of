@@ -1,4 +1,3 @@
-// src/components/Hero.tsx
 import React from 'react';
 import { ArrowDown, Github, Linkedin, Mail } from 'lucide-react';
 
